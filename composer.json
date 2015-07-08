@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nette/utils": "^2.3",
+        "nette/nette": "^2.3"
+    }
+}
